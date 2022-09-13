@@ -86,10 +86,10 @@ author:
   bio              : "Seismologist"
   location         : "La Jolla, California"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=ptd_FAcAAAAJ&hl=zh-CN"
   email            : "s2hao@ucsd.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -228,10 +228,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _talks
+  # _conferences
   - scope:
       path: ""
-      type: talks
+      type: conferences
     values:
       layout: talk
       author_profile: true
