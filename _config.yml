@@ -228,15 +228,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
@@ -250,15 +241,15 @@ defaults:
       path: ""
       type: research
     values:
-      layout: research
+      layout: single
       author_profile: true
       share: true
-   # _news
+  # _news
   - scope:
       path: ""
       type: news
     values:
-      layout: news
+      layout: single
       author_profile: true
       share: true
 
