@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Shangqin Hao, a PhD student at the Institute of Geophysics and Planetary Physics, Scripps Institution of Oceanography, UC San Diego. I am interested in studing the struture in Earth's deep interior with seismic methods.
+I am Shangqin Hao, a PhD student at the [Institute of Geophysics and Planetary Physics, Scripps Institution of Oceanography, UC San Diego](https://igpp.ucsd.edu/). I am interested in studing the struture in Earth's deep interior with seismic methods.
