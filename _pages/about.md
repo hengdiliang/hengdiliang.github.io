@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Shangqin Hao, a PhD student at the [Institute of Geophysics and Planetary Physics, Scripps Institution of Oceanography, UC San Diego](https://igpp.ucsd.edu/). I am interested in studying the seismic struture in Earth's deep interior.
+I am Hengdi Liang, a Ph.D. candidate at the [Department of Earth Sciences, University of Southern California](https://dornsife.usc.edu/earth/). I am interested in abc.
 
 Education
 ======
-* B.S. in Geology, Nanjing University, 2017
-* M.S. in Geophysics, University of Science and Technology of China, 2020
-* Ph.D. student, University of California San Diego, Now
+* B.S. in Geology, Nanjing University, 2013~2017
+* Ph.D. in Ocean Sciences, University of Southern California, 2017~now
