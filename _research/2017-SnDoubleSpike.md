@@ -1,7 +1,7 @@
 ---
-title: "High Precision Analysis of Sn Isotopes Using the Double Spike Method"
+title: "High precision analysis of Sn isotopes using the double spike method"
 collection: research
-permalink: /research/2017-SnDoubleSpike
+permalink: /research/SnDoubleSpike
 date: 2017-06-30
 ---
 
