@@ -15,3 +15,9 @@ Education
 * Ph.D. in Ocean Sciences, University of Southern California, 2017~now
 * B.S. in Geology, Nanjing University, 2013~2017
 * CBL International summer program, Oriel College, University of Oxford, July~Aug., 2015
+
+Research Interests
+======
+* Biogeochemical processes that regulate ocean tracers
+* Trace metals and isotopes in the ocean
+* Numerical models of the earth system 
