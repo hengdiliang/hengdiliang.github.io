@@ -10,5 +10,7 @@ redirect_from:
 
 Teaching assistant
 ======
-* abc
-* def
+* GEOL 165 Metals and Life on Earth, University of Southern California (Fall 2022)
+* GEOL 126 The History of Life on Earth: A View from the Museum, University of Southern California (Spring 2019)
+* GEOL 107 Oceanography, University of Southern California (Fall 2018)
+
