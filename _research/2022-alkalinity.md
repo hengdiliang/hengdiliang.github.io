@@ -1,7 +1,7 @@
 ---
 title: "Constraining the ocean CaCO<sub>3</sub> export and dissolution through a global alkalinity model"
 collection: research
-permalink: /research/2022-AlkalinityModel
+permalink: /research/AlkalinityModel
 date: 2022-07-26
 ---
 
