@@ -18,6 +18,7 @@ Education
 
 Research Interests
 ======
-* Biogeochemical processes that regulate ocean tracers
-* Trace metals and isotopes in the ocean
 * Numerical models of the earth system 
+* Ocean biogeochemical processes 
+* Ocean tracers, including trace metals (and isotopes) and the carbon cycle
+
