@@ -9,13 +9,13 @@ redirect_from:
 
 You can also find my articles on my [Google Scholar](https://scholar-google-com.libproxy2.usc.edu/citations?user=hXnUA9wAAAAJ&hl=en&oi=ao) profile.
 
-In prep
-======
-* **Liang, H.**, Moffett, J. W, & John, S. G. (in preparation; draft available upon request). Towards a better understanding of the ocean copper distribution and speciation through a data-constrained global model
-
 In review
 ======
-* **Liang, H.\***, Lunstrum, A.\*, Dong, S., Berelson, W. M., & John, S. G. (under minor revisions at Global Biogeochemical Cycles). Constraining CaCO<sub>3</sub> export and dissolution with an ocean alkalinity inverse model. 
+* **Liang, H.**, Moffett, J. W, & John, S. G. (under review at Global Biogeochemical Cycles). Toward a better understanding of the ocean copper distribution and speciation through a data-constrained global model
+
+In press
+======
+* **Liang, H.\***, Lunstrum, A.\*, Dong, S., Berelson, W. M., & John, S. G. (accepted by Global Biogeochemical Cycles). Constraining CaCO<sub>3</sub> export and dissolution with an ocean alkalinity inverse model. 
 
 Published
 ======
