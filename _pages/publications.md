@@ -9,9 +9,9 @@ redirect_from:
 
 You can also find my articles on my [Google Scholar](https://scholar-google-com.libproxy2.usc.edu/citations?user=hXnUA9wAAAAJ&hl=en&oi=ao) profile.
 
-In review
+In preparation
 ======
-* **Liang, H.**, Moffett, J. W, & John, S. G. (under review at Global Biogeochemical Cycles). Toward a better understanding of the ocean copper distribution and speciation through a data-constrained global model
+* **Liang, H.**, Moffett, J. W, & John, S. G. (in prep). Toward a better understanding of the ocean copper distribution and speciation through a data-constrained global model
 
 In press
 ======
