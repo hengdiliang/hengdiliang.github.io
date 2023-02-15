@@ -15,7 +15,7 @@ In preparation
 
 In press
 ======
-* **Liang, H.\***, Lunstrum, A.\*, Dong, S., Berelson, W. M., & John, S. G. Constraining CaCO3 export and dissolution with an ocean alkalinity inverse model. Global Biogeochemical Cycles, e2022GB007535.
+* **Liang, H.\***, Lunstrum, A.\*, Dong, S., Berelson, W. M., & John, S. G. Constraining CaCO<sub>3</sub> export and dissolution with an ocean alkalinity inverse model. Global Biogeochemical Cycles, e2022GB007535.
 
 
 Published
