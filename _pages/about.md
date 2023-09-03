@@ -12,9 +12,9 @@ I am Hengdi Liang, a postdoctoral associate at the [Department of Earth, Atmosph
 
 Education
 ======
-* Ph.D. in Ocean Sciences, University of Southern California, 2017~2023
-* B.S. in Geology, Nanjing University, 2013~2017
-* CBL International summer program, Oriel College, University of Oxford, July~Aug., 2015
+* Ph.D. in Ocean Sciences, University of Southern California, Aug.,2017 ~ Aug.,2023
+* B.S. in Geology, Nanjing University, Sept.,2013 ~ Jul.,2017
+* CBL International summer program, Oriel College, University of Oxford, Jul.~Aug., 2015
 
 Research Interests
 ======
