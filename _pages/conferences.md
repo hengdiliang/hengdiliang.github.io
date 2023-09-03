@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 ### Oral
+**2023 Goldschmidt Conference, Lyon, France** \
+Liang, H., Horner, T. J., & John, S. G. (2023, July). Origin and dissolution of barite in the oceans: Insights from a global ocean dissolved Ba model. In Goldschmidt 2023 Conference. GOLDSCHMIDT.
 
 **2022 Goldschmidt Conference, Honolulu, HI** \
 Liang, H., Lunstrum, A., Dong, S., Berelson, W. M., & John, S. G. (2022, July). Constraining marine calcium carbonate export and dissolution with a global ocean alkalinity model. In 2022 Goldschmidt Conference. GOLDSCHMIDT.
