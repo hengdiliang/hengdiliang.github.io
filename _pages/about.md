@@ -10,6 +10,10 @@ redirect_from:
 
 I am Hengdi Liang, a postdoctoral associate at the [Department of Earth, Atmospheric and Planetary Sciences of the Massachusetts Institute of Technology](https://eapsweb.mit.edu/). I am interested in the ocean biogeochemical cycle, numerical models, and artificial intelligence applications to the Earth systems.
 
+Professional Appointments
+======
+* Postdoctoral associate, Massachusetts Institute of Technology, Sept. 2023 ~ present                      
+
 Education
 ======
 * Ph.D. in Ocean Sciences, University of Southern California, Aug.,2017 ~ Aug.,2023
