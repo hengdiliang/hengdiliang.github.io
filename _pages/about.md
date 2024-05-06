@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hengdi Liang, a postdoctoral associate at the [Department of Earth, Atmospheric and Planetary Sciences of the Massachusetts Institute of Technology](https://eapsweb.mit.edu/). I am interested in the ocean biogeochemical cycle, numerical models, and artificial intelligence applications to the Earth systems.
+I am Hengdi Liang, a postdoctoral associate at the [Department of Earth, Atmospheric and Planetary Sciences of the Massachusetts Institute of Technology](https://eaps.mit.edu/). I am interested in the ocean biogeochemical cycle and numerical models of the Earth systems.
 
 Professional Appointments
 ======
@@ -24,5 +24,5 @@ Research Interests
 ======
 * Numerical models of the Earth system 
 * Ocean biogeochemical processes 
-* Ocean tracers, including trace metals (and isotopes) and the carbon cycle
+* Ocean tracers, including trace metals and the carbon cycle
 
