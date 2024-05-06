@@ -7,7 +7,7 @@ redirect_from:
   - /publications.html
 ---
 
-You can also find my articles on my [Google Scholar]([https://scholar.google.com/citations?hl=en&pli=1&user=SbA5i9AAAAAJ]) profile.
+You can also find my articles on my [Google Scholar]([https://scholar.google.com/citations?user=hXnUA9wAAAAJ&hl=en&authuser=2]) profile.
 
 
 Published
