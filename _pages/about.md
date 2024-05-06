@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hengdi Liang, a postdoctoral associate at the [Department of Earth, Atmospheric and Planetary Sciences of the Massachusetts Institute of Technology](https://eaps.mit.edu/). I am interested in the ocean biogeochemical cycle and numerical models of the Earth systems.
+I am Hengdi Liang (梁恒頔), a postdoctoral associate at the [Department of Earth, Atmospheric and Planetary Sciences of the Massachusetts Institute of Technology](https://eaps.mit.edu/). I am interested in the ocean biogeochemical cycle and numerical models of the Earth systems.
 
 Professional Appointments
 ======
