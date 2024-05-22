@@ -12,6 +12,7 @@ You can also find my articles on my [Google Scholar]([https://scholar.google.com
 
 Published
 ======
+* John, S. G., **Liang, H.**, Pasquier, B., Holzer, M., & Silva, S. (2024). Biogeochemical Fluxes of Nickel in the Global Oceans Inferred From a Diagnostic Model. Global Biogeochemical Cycles, 38(5), e2023GB008018.
 * **Liang, H.**, Moffett, J. W, & John, S. G. (2023). Toward a better understanding of the global ocean copper distribution and speciation through a data-constrained model. Global Biogeochemical Cycles, 37(9), e2023GB007769.
 * **Liang, H.**, Lunstrum, A. M., Dong, S., Berelson, W. M., & John, S. G. (2023). Constraining CaCO3 export and dissolution with an ocean alkalinity inverse model. Global Biogeochemical Cycles, 37(2), e2022GB007535.
 * John, S. G., Kelly, R. L., Bian, X., Fu, F., Smith, M. I., Lanning, N. T., **Liang, H.**, ... & Yang, S. C. (2022). The biogeochemical balance of oceanic nickel cycling. Nature Geoscience, 1-7.
