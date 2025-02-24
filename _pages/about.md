@@ -10,19 +10,21 @@ redirect_from:
 
 I am Hengdi Liang (梁恒頔), a postdoctoral associate at the [Department of Earth, Atmospheric and Planetary Sciences of the Massachusetts Institute of Technology](https://eaps.mit.edu/). I am interested in the ocean biogeochemical cycle and numerical models of the Earth systems.
 
+Current email address: hengdi95@mit.edu
+
 Professional Appointments
 ======
-* Postdoctoral associate, Massachusetts Institute of Technology, Sept. 2023 ~ present                      
+* Postdoctoral associate, Massachusetts Institute of Technology, 2023.9 ~ present                      
 
 Education
 ======
-* Ph.D. in Ocean Sciences, University of Southern California, Aug.,2017 ~ Aug.,2023
-* B.S. in Geology, Nanjing University, Sept.,2013 ~ Jul.,2017
-* CBL International summer program, Oriel College, University of Oxford, Jul.~Aug., 2015
+* Ph.D. in Ocean Sciences, University of Southern California, 2017.8 ~ 2023.8
+* B.S. in Geology, Nanjing University, 2013.9 ~ 2017.7
+* CBL International summer program, Oriel College, University of Oxford, 2015.7 ~ 2015.8
 
 Research Interests
 ======
 * Numerical models of the Earth system 
-* Ocean biogeochemical processes 
-* Ocean tracers, including trace metals and the carbon cycle
+* Ocean biogeochemical cycles
+* Trace metal biogeochemistry
 
