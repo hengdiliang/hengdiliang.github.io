@@ -10,6 +10,7 @@ redirect_from:
 
 Teaching certificate
 ======
+* MIT Professional Development Certificate in Research Mentoring (Spring 2025)
 * MIT Kaufman Teaching Certificate Program (Spring 2025)
 
 Teaching assistant
