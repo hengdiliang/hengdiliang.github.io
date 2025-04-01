@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hengdi Liang (梁恒頔), a postdoctoral associate in the Department of Earth, Atmospheric and Planetary Sciences of the Massachusetts Institute of Technology. I am interested in the ocean biogeochemical cycle and numerical models of the Earth systems.
+I am Hengdi Liang (梁恒頔), a postdoctoral associate in the Department of Earth, Atmospheric and Planetary Sciences at Massachusetts Institute of Technology. I am interested in the ocean biogeochemical cycles and Earth system models.
 
 Current email address: hengdi95@mit.edu
 
