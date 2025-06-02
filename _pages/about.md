@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Hengdi Liang (梁恒頔), a postdoctoral associate in the Department of Earth, Atmospheric and Planetary Sciences at Massachusetts Institute of Technology. I am interested in the ocean biogeochemical cycles and Earth system models.
+I am Hengdi Liang (梁恒頔), a Postdoctoral Fellow in the Department of Global Ecology at Carnegie Science. I am interested in the ocean biogeochemical cycles and Earth system models.
 
-Current email address: hengdi95@mit.edu
+Current email address: hliang@carnegiescience.edu
 
 Professional Appointments
 ======
-* Postdoctoral associate, Massachusetts Institute of Technology, 2023.9 ~ present                      
+* Postdoctoral Fellow, Carnegie Science, 2025.6 ~ present  
+* Postdoctoral Associate, Massachusetts Institute of Technology, 2023.9 ~ 2025.5                     
 
 Education
 ======
