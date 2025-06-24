@@ -25,7 +25,8 @@ Education
 
 Research Interests
 ======
-* Numerical models of the Earth system 
-* Ocean biogeochemical cycles
-* Trace metal biogeochemistry
+* Earth System Models
+* Ocean Biogeochemical Cycle
+* Trace Elements and Their Isotopes
+* Carbon-Climate Feedbacks
 
