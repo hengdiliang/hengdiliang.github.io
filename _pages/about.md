@@ -19,9 +19,9 @@ Professional Appointments
 
 Education
 ======
-* Ph.D. in Ocean Sciences, University of Southern California, 2017.8 ~ 2023.8
-* B.S. in Geology, Nanjing University, 2013.9 ~ 2017.7
-* CBL International summer program, Oriel College, University of Oxford, 2015.7 ~ 2015.8
+* Ph.D. in Ocean Sciences, University of Southern California, 2017 ~ 2023
+* B.S. in Geology, Nanjing University, 2013 ~ 2017
+* CBL International summer program, Oriel College, University of Oxford, Summer 2015
 
 Research Interests
 ======
