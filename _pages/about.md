@@ -27,6 +27,7 @@ Research Interests
 ======
 * Earth System Models
 * Ocean Biogeochemical Cycle
+* Marine Microbial Ecology
 * Trace Elements and Their Isotopes
 * Carbon-Climate Feedbacks
 
