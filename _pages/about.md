@@ -17,16 +17,20 @@ Current email address: hliang@carnegiescience.edu
 Professional Appointments
 ======
 * Postdoctoral Fellow, Carnegie Science, 2025.6 ~ present
-  * Supervisor: Dr. Emily Zakem 
+  * Supervisor: Dr. Emily Zakem
+  * Research focus: Theoretical and computational marine microbial ecology 
 * Postdoctoral Associate, Massachusetts Institute of Technology, 2023.9 ~ 2025.5
-  * Supervisor: Prof. Raffaele Ferrari                    
+  * Supervisor: Prof. Raffaele Ferrari
+  * Research focus: ClimaOceanBiogeochemistry.jl model development; Ocean particle fluxes and carbon sequestration              
 
 Education
 ======
 * Ph.D. in Ocean Sciences, University of Southern California, 2017 ~ 2023
   * Supervisor: Prof. Seth John
+  * Research focus: Trace metal biogeochemistry; AWESOME OCIM; Mineral dissolution   
 * B.S. in Geology, Nanjing University, 2013 ~ 2017
-  * Supervisor: Prof. Weiqiang Li 
+  * Supervisor: Prof. Weiqiang Li
+  * Research focus: Non-traditional stable isotopes; Mass spectrometry; The double spike technique
 * CBL International summer program, Oriel College, University of Oxford, Summer 2015
 
 Research Interests
