@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Hengdi Liang (梁恒頔), a Postdoctoral Fellow in the Department of Global Ecology at Carnegie Science. I’m based at the California Institute of Technology (Caltech) campus in Pasadena, California.
+I am Hengdi Liang (梁恒頔), a Postdoctoral Fellow in the Biosphere Sciences & Engineering (BSE) Division at [Carnegie Science](https://carnegiescience.edu/bse). I’m based at the California Institute of Technology (Caltech) campus in Pasadena, California.
 
-I am interested in the ocean biogeochemical cycles and Earth system models, with a particular focus on the interactions between microorganisms and the marine environment. I develop numerical models to simulate microbial processes that shape nutrient and organic matter cycling in the global oceans, integrating observational data to test and refine mechanistic hypotheses.
+I am interested in the ocean biogeochemical cycles and Earth system modeling, with a particular focus on the interactions between microorganisms and the marine environment. I develop numerical models to simulate microbial processes that shape nutrient and organic matter cycling in the global oceans, integrating observational data to test and refine mechanistic hypotheses.
 
 Current email address: hliang@carnegiescience.edu
 
