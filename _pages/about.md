@@ -16,10 +16,10 @@ Current email address: hliang@carnegiescience.edu
 
 Professional Appointments
 ======
-* Postdoctoral Fellow, Carnegie Science, 2025.6 ~ present
+* Postdoctoral Fellow, Carnegie Science, 2025 ~ present
   * Supervisor: Dr. Emily Zakem
   * Research focus: Theoretical and computational marine microbial ecology 
-* Postdoctoral Associate, Massachusetts Institute of Technology, 2023.9 ~ 2025.5
+* Postdoctoral Associate, Massachusetts Institute of Technology, 2023 ~ 2025
   * Supervisor: Prof. Raffaele Ferrari
   * Research focus: ClimaOceanBiogeochemistry.jl model development; Ocean particle fluxes and carbon sequestration              
 
