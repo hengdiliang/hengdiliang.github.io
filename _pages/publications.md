@@ -12,6 +12,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 Published
 ======
+[11] **Liang, H.**, Zakem, E. J., Lauderdale, J. M., & Ferrari, R. (2026). Beyond the Martin curve: A mechanistic yet simple model for dynamic ocean particulate organic carbon fluxes. ***Global Biogeochemical Cycles***, 40(8), e2026GB009184. [link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2026GB009184)
+
 [10] Wu, Y., Huang, Y., DeVries, T., **Liang, H.**, Wang, G., & Zhang, S. (2025). The dominant sink of oceanic calcium carbonate occurs in undersaturated seawater. ***Proceedings of the National Academy of Sciences of the United States of America***, 122(43), e2507771122. [link](https://www.pnas.org/doi/10.1073/pnas.2507771122)
 
 
