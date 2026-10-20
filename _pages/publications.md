@@ -41,5 +41,5 @@ Published
 [2]	John, S. G., **Liang, H.**, Weber, T., DeVries, T., Primeau, F., Moore, K., ... & Taburet, G. (2020). AWESOME OCIM: A simple, flexible, and powerful tool for modeling elemental cycling in the oceans. *[Chemical Geology](https://www.sciencedirect.com/science/article/pii/S0009254119305327)*, 533, 119403. 
 
 
-[1]	She, J. X., Wang, T., **Liang, H.**, Muhtar, M. N., Li, W., & Liu, X. (2020). Sn isotope fractionation during volatilization of Sn (IV) chloride: Laboratory experiments and quantum mechanical calculations. ***Geochimica et Cosmochimica Acta***, 269, 184-202. [link](https://www.sciencedirect.com/science/article/pii/S0016703719306878)
+[1]	She, J. X., Wang, T., **Liang, H.**, Muhtar, M. N., Li, W., & Liu, X. (2020). Sn isotope fractionation during volatilization of Sn (IV) chloride: Laboratory experiments and quantum mechanical calculations. *[Geochimica et Cosmochimica Acta](https://www.sciencedirect.com/science/article/pii/S0016703719306878)*, 269, 184-202. 
 
